@@ -1,0 +1,5 @@
+ATA 101  Atatürk's Principles and Revolution History I 2
+CSE 201  Data Structures 6
+CSE 211  Digital Design 5
+CSE 221  Discrete Mathematics 7
+TEC 21  Technical Elective Courses [21] 20

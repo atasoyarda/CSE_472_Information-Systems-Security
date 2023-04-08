@@ -1,0 +1,8 @@
+CSE 101L  Computer Programming I Laboratory 2
+CSE 101T  Computer Programming I 4
+CSE 105  Introduction to Computer Science 2
+CSE 111  Physics for Computer Science I 6
+CSE 181  Natural Sciences 6
+CSE 183  English Writing Skills 2
+MAT 163  Mathematics for Engineering I 6
+TDB 101  Turkish Language I 2

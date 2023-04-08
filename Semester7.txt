@@ -1,0 +1,5 @@
+CSE 435  Formal Languages and Automata 6
+CSE 483  Entrepreneurship 4
+CSE 491  Senior Design Project I 4
+SEC 41  Social Elective Courses [41] 4
+TEC 41  Technical Elective Courses [41] 24

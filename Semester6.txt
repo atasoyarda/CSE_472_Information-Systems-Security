@@ -1,0 +1,7 @@
+CSE 332  Software Engineering 6
+CSE 334  Programming Languages 6
+CSE 358  Introduction to Artificial Intelligence 6
+CSE 382  IT Law 2
+CSE 384  Rhetoric and Argumentation 2
+CSE 392  Seminar 2
+TEC 32  Technical Elective Courses [32] 6

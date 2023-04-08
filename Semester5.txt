@@ -1,0 +1,4 @@
+CSE 301  Algorithms 6
+CSE 303  Fundamentals of Operating Systems 6
+CSE 321  Introduction to Probability Theory 6
+TEC 31  Technical Elective Courses [31] 24

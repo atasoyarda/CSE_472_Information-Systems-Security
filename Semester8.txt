@@ -1,0 +1,4 @@
+CSE 472  Information Systems Security 6
+CSE 490  Internship 2
+CSE 492  Senior Design Project II 10
+TEC 42  Technical Elective Courses [42] 24

@@ -1,0 +1,8 @@
+CSE 102L  Computer Programming II Laboratory 2
+CSE 102T  Computer Programming II 4
+CSE 112  Physics for Computer Science II 6
+CSE 122  Statistics for Engineering 6
+CSE 184  English Presentation Skills 2
+KPD 102  Career Planning 2
+MAT 164  Mathematics for Engineering II 6
+TDB 102  Turkish Language II 2
